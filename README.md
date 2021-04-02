@@ -5,7 +5,7 @@ Coded Tetris to learn Unity and C# for the UCSB Annual Hackathon, SB Hacks.
 
 Main code is in **SpawnTetromino.cs** and **TetrisBlock.cs**. The rest is Unity files.
 
-![Tetris Image](https://imgur.com/a/kRXpR0L)
+![Tetris Image](https://imgur.com/yWNCDX7)
 
 Its tetris! The game you all know and love. The way this works is each square on the screen is a space in a grid. Each move is checked for validity, or else the Tetromino stops moving. Line deletion is also a feature!
 
